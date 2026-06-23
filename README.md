@@ -123,8 +123,8 @@ BAD_POSTURE_TIME_LIMIT = 10.0 # שניות לפני התרעה
 ## 📸 צילומי מסך
 
 ### פינגווין בפעולה (יציבה שגויה)
-<!-- ![פינגווין](screenshots/penguin-alert.png) -->
+![פינגווין](screenshots/penguin-alert.png)
 
 ### סיכום יומי
-<!-- ![סיכום](screenshots/daily-summary.png) -->
+![סיכום](screenshots/daily-summary.png) 
 
