@@ -122,16 +122,9 @@ BAD_POSTURE_TIME_LIMIT = 10.0 # שניות לפני התרעה
 
 ## 📸 צילומי מסך
 
-### מצב ניטור רגיל
-<!-- ![ניטור רגיל](screenshots/monitoring.png) -->
-
 ### פינגווין בפעולה (יציבה שגויה)
 <!-- ![פינגווין](screenshots/penguin-alert.png) -->
-
-### התרעת Windows
-<!-- ![התרעה](screenshots/toast-notification.png) -->
 
 ### סיכום יומי
 <!-- ![סיכום](screenshots/daily-summary.png) -->
 
-> להוספת תמונות: צרי תיקייה `screenshots/` והסירי את סימני ה-`<!-- -->` מהשורות הרלוונטיות.
